@@ -1,4 +1,4 @@
-module github.com/raj-prince/custom-go-client-benchmark
+module github.com/Tulsishah/custom-go-client-benchmark
 
 go 1.21
 
