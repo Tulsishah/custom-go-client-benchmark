@@ -1,4 +1,4 @@
-module github.com/Tulsishah/custom-go-client-benchmark
+module github.com/Tulsishah/custom-go-client-benchmark/v2
 
 go 1.21
 
